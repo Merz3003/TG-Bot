@@ -54,6 +54,5 @@ tg_bot/
 ```bash
 git clone https://github.com/Merz3003/TG-Bot
 cd tg_bot
-python -m venv .venv
-source .venv/bin/activate
 pip install -r requirements.txt
+далее нужно получить токен у тг бота BotFather и вставить в уже готовый .evn файл
