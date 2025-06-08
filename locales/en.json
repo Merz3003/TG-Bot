@@ -1,0 +1,14 @@
+{
+  "start": "Welcome!\n/help",
+  "help": "<b>Available commands:</b>\n/start — start the bot\n/help — help\n/language — switch language\n/set_currency — set main currency\n/my_currency — current currency\n/rates — crypto exchange rates",
+  "choose_currency": "Choose your currency:",
+  "my_currency": "Current currency: {currency}",
+  "set_currency_done": "Currency set to: {currency}",
+  "conversion_error": "Conversion error.",
+  "convert_usage": "Usage: /convert <amount> <currency>\nExample: /convert 3 ETH",
+  "unknown_crypto": "Unknown cryptocurrency",
+  "conversion_result": "{amount} {symbol} = {result} {currency}",
+  "rates_error": "Failed to fetch rates 😔 Try again later.",
+  "rates_header": "<b>Rates in {currency}:</b>",
+  "conversion_format_error": "Invalid format. Example: /convert 3 ETH"
+}

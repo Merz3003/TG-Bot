@@ -1,0 +1,4 @@
+aiogram
+aiohttp
+pydantic-settings
+python-dotenv
